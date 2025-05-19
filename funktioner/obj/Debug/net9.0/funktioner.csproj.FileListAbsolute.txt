@@ -1,0 +1,14 @@
+C:\C++\funktioner\funktioner\bin\Debug\net9.0\funktioner.exe
+C:\C++\funktioner\funktioner\bin\Debug\net9.0\funktioner.deps.json
+C:\C++\funktioner\funktioner\bin\Debug\net9.0\funktioner.runtimeconfig.json
+C:\C++\funktioner\funktioner\bin\Debug\net9.0\funktioner.dll
+C:\C++\funktioner\funktioner\bin\Debug\net9.0\funktioner.pdb
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.AssemblyInfoInputs.cache
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.AssemblyInfo.cs
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.csproj.CoreCompileInputs.cache
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.dll
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\refint\funktioner.dll
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.pdb
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\funktioner.genruntimeconfig.cache
+C:\C++\funktioner\funktioner\obj\Debug\net9.0\ref\funktioner.dll
